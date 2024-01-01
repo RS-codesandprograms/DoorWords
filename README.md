@@ -13,7 +13,10 @@ The player can also pick how many doors will be active in each game. This determ
 **The full spec for the game is in the repo ...**
 
 
-![DoorWords](https://github.com/RS-codesandprograms/DoorWords/assets/94880497/7c16b80c-bd28-4707-bd05-a0761d20f127)
+
+
+![image](https://github.com/RS-codesandprograms/DoorWords/assets/94880497/c07d6c9f-5f7e-4aeb-80e8-6acbe6344e00)
+
 
 
 
